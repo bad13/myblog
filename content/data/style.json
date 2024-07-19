@@ -1,10 +1,10 @@
 {
     "type": "ThemeStyle",
     "light": "#ffffff",
-    "onLight": "#050806",
-    "dark": "#000000",
-    "onDark": "#b533ff",
-    "primary": "#000000",
+    "onLight": "#00ee00",
+    "dark": "#1a1221",
+    "onDark": "#9d00ff",
+    "primary": "#090808",
     "onPrimary": "#000000",
     "secondary": "#260a04",
     "onSecondary": "#050806",
@@ -54,7 +54,7 @@
         "letterSpacing": "normal"
     },
     "buttonPrimary": {
-        "weight": "normal",
+        "weight": "medium",
         "case": "none",
         "letterSpacing": "normal",
         "horizontalPadding": 20,
