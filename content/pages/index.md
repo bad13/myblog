@@ -50,7 +50,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/profile_pic_ds.jpg
-      altText: altText of the image
+      altText: ''
       caption: Caption of the image
       elementId: ''
 ---
