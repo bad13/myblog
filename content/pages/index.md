@@ -51,6 +51,6 @@ sections:
       type: ImageBlock
       url: /images/profile_pic_ds.jpg
       altText: ''
-      caption: Caption of the image
+      caption: ''
       elementId: ''
 ---
