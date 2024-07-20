@@ -8,7 +8,7 @@ sections:
       „Der Kluge lernt aus allem und von jedem, der Normale aus seinen
       Erfahrungen und der Dumme weiß alles besser.“ (Sokrates)
     name: Sokrates
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
