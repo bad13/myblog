@@ -9,7 +9,7 @@ sections:
       Erfahrungen und der Dumme weiß alles besser.“
     name: Sokrates
     title: ''
-    colors: colors-c
+    colors: colors-f
     elementId: ''
     styles:
       self:
