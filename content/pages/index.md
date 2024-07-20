@@ -4,9 +4,10 @@ title: Home
 colors: colors-a
 sections:
   - type: QuoteSection
-    quote: >
-      „Der Kluge lernt aus allem und von jedem, der Normale aus seinen
+    quote: >+
+      #### „Der Kluge lernt aus allem und von jedem, der Normale aus seinen
       Erfahrungen und der Dumme weiß alles besser.“
+
     name: Sokrates
     title: ''
     colors: colors-a
