@@ -75,7 +75,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/gradient.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
