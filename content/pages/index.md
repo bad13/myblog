@@ -3,33 +3,6 @@ type: PageLayout
 title: Home
 colors: colors-a
 sections:
-  - type: QuoteSection
-    quote: >+
-      #### „Der Kluge lernt aus allem und von jedem, der Normale aus seinen
-      Erfahrungen und der Dumme weiß alles besser.“
-
-    name: Sokrates
-    title: ''
-    colors: colors-a
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight": 500
-        textAlign: left
-      title:
-        fontWeight": 400
-        textAlign: left
   - elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -73,4 +46,31 @@ sections:
       altText: ''
       caption: 300x300
       elementId: ''
+  - type: QuoteSection
+    quote: >+
+      #### „Der Kluge lernt aus allem und von jedem, der Normale aus seinen
+      Erfahrungen und der Dumme weiß alles besser.“
+
+    name: Sokrates
+    title: ''
+    colors: colors-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight": 500
+        textAlign: left
+      title:
+        fontWeight": 400
+        textAlign: left
 ---
