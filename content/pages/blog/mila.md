@@ -5,7 +5,7 @@ date: '2024-05-04'
 excerpt: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/mila.jpg
   altText: Post image
   caption: Caption of the image
   elementId: ''
