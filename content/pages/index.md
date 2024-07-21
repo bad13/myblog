@@ -56,7 +56,7 @@ sections:
       technologischem Nerd und strategischem Anzugträger.
 backgroundImage:
   type: BackgroundImage
-  url: /images/gradient.png
+  url: /images/gradient(2).png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
