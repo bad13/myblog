@@ -9,12 +9,7 @@ sections:
     title: 'Hallo, ich bin Dennis!'
     subtitle: >-
       Lösungsorientierter IT'ler' mit Empathie und Hands-on-Mentalität, der
-      pragmatisch und sachlich an Herausforderungen herangeht. Meine bislang
-      gesammelte Führungskompetenz ermöglicht es mir, Teams effizient zu leiten
-      und Projekte erfolgreich umzusetzen. Führungsstil: Kollegial und auf
-      Augenhöhe. Lieber Kollegen statt Mitarbeiter & gerne per "Du". Im daily
-      Business bewege ich mich souverän im Spagat zwischen technologischem Nerd
-      und strategischem Anzugträger.
+      pragmatisch und sachlich an Herausforderungen herangeht.
     styles:
       self:
         height: auto
