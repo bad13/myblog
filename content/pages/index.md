@@ -44,7 +44,7 @@ sections:
       type: ImageBlock
       url: /images/profile_pic_ds.jpg
       altText: ''
-      caption: 300x300
+      caption: ''
       elementId: ''
   - type: QuoteSection
     quote: >+
