@@ -60,7 +60,7 @@ sections:
       Im daily Business bewege ich mich souverän im Spagat zwischen
       technologischem Nerd und strategischem Anzugträger.
   - type: HeroSection
-    title: Details
+    title: ''
     subtitle: ''
     actions: []
     colors: colors-f
@@ -69,7 +69,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-36
           - pb-48
