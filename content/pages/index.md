@@ -28,6 +28,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
         borderWidth: 4
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:
