@@ -7,8 +7,13 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Lösungsorientierter IT'ler' mit Empathie und Hands-on-Mentalität, der
+      pragmatisch und sachlich an Herausforderungen herangeht. Meine bislang
+      gesammelte Führungskompetenz ermöglicht es mir, Teams effizient zu leiten
+      und Projekte erfolgreich umzusetzen. Führungsstil: Kollegial und auf
+      Augenhöhe. Lieber Kollegen statt Mitarbeiter & gerne per "Du". Im daily
+      Business bewege ich mich souverän im Spagat zwischen technologischem Nerd
+      und strategischem Anzugträger.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
