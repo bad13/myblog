@@ -29,7 +29,7 @@ sections:
         flexDirection: row-reverse
         borderWidth: 2
         borderStyle: solid
-        borderRadius: full
+        borderRadius: small
         borderColor: border-dark
       title:
         textAlign: left
