@@ -6,17 +6,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'Hallo, ich bin Dennis!'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Lösungsorientierter IT'ler' mit Empathie und Hands-on-Mentalität, der
+      pragmatisch und sachlich an Herausforderungen herangeht.
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
@@ -46,36 +43,20 @@ sections:
       altText: ''
       caption: ''
       elementId: ''
-  - type: QuoteSection
-    quote: >+
-      #### „Der Kluge lernt aus allem und von jedem, der Normale aus seinen
-      Erfahrungen und der Dumme weiß alles besser.“
+    text: >
+      Meine bislang gesammelte Führungskompetenz ermöglicht es mir, Teams
+      effizient zu leiten und Projekte erfolgreich umzusetzen.
 
-    name: Sokrates
-    title: ''
-    colors: colors-a
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight": 500
-        textAlign: left
-      title:
-        fontWeight": 400
-        textAlign: left
+
+      Führungsstil: Kollegial und auf Augenhöhe. Kollegen statt Mitarbeiter &
+      gerne per "Du".
+
+
+      Im daily Business bewege ich mich souverän im Spagat zwischen
+      technologischem Nerd und strategischem Anzugträger.
 backgroundImage:
   type: BackgroundImage
-  url: /images/gradient.png
+  url: /images/gradient(2).png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
