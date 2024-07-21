@@ -8,9 +8,13 @@ sections:
     backgroundSize: inset
     title: ''
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Lösungsorientierter IT'ler' mit Empathie und Hands-on-Mentalität, der
+      pragmatisch und sachlich an Herausforderungen herangeht. Meine bislang
+      gesammelte Führungskompetenz ermöglicht es mir, Teams effizient zu leiten
+      und Projekte erfolgreich umzusetzen. Führungsstil: Kollegial und auf
+      Augenhöhe. Lieber Kollegen statt Mitarbeiter & gerne per "Du". Im daily
+      Business bewege ich mich souverän im Spagat zwischen technologischem Nerd
+      und strategischem Anzugträger.
     styles:
       self:
         height: auto
