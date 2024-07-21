@@ -27,7 +27,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
-        borderWidth: 2
+        borderWidth: 0
         borderStyle: solid
         borderRadius: small
         borderColor: border-dark
