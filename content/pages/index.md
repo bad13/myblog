@@ -57,7 +57,7 @@ sections:
 backgroundImage:
   type: BackgroundImage
   url: /images/gradient(2).png
-  backgroundSize: auto
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
