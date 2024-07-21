@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: 'Hallo, ich bin Dennis!'
     subtitle: >-
       Lösungsorientierter IT'ler' mit Empathie und Hands-on-Mentalität, der
