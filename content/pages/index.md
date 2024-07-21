@@ -30,6 +30,7 @@ sections:
         borderWidth: 4
         borderStyle: solid
         borderRadius: full
+        borderColor: border-complementary
       title:
         textAlign: left
       subtitle:
