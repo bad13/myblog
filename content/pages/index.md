@@ -32,7 +32,7 @@ sections:
         borderRadius: small
         borderColor: border-dark
       title:
-        textAlign: center
+        textAlign: left
         fontWeight: 500
       subtitle:
         textAlign: left
