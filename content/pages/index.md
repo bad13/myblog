@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: ''
+    title: 'Hallo, ich bin Dennis!'
     subtitle: >-
       Lösungsorientierter IT'ler' mit Empathie und Hands-on-Mentalität, der
       pragmatisch und sachlich an Herausforderungen herangeht. Meine bislang
