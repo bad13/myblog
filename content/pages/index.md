@@ -48,6 +48,8 @@ sections:
       altText: ''
       caption: ''
       elementId: ''
+    text: |
+      Text
 backgroundImage:
   type: BackgroundImage
   url: /images/gradient.png
