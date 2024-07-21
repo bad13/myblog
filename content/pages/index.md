@@ -12,7 +12,7 @@ sections:
       pragmatisch und sachlich an Herausforderungen herangeht.
     styles:
       self:
-        height: auto
+        height: screen
         width: narrow
         margin:
           - mt-0
