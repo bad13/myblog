@@ -42,7 +42,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/profile_pic_ds.jpg
       altText: ''
       caption: 300x300
       elementId: ''
