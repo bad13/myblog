@@ -29,6 +29,7 @@ sections:
         flexDirection: row-reverse
         borderWidth: 4
         borderStyle: solid
+        borderRadius: full
       title:
         textAlign: left
       subtitle:
