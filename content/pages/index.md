@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
@@ -42,8 +42,42 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/profile_pic_ds.jpg
       altText: ''
-      caption: 300x300
+      caption: ''
       elementId: ''
+  - type: QuoteSection
+    quote: >+
+      #### „Der Kluge lernt aus allem und von jedem, der Normale aus seinen
+      Erfahrungen und der Dumme weiß alles besser.“
+
+    name: Sokrates
+    title: ''
+    colors: colors-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight": 500
+        textAlign: left
+      title:
+        fontWeight": 400
+        textAlign: left
+backgroundImage:
+  type: BackgroundImage
+  url: /images/gradient.png
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
