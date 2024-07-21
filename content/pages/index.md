@@ -33,6 +33,7 @@ sections:
         borderColor: border-dark
       title:
         textAlign: left
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
