@@ -9,7 +9,7 @@ sections:
     title: 'Hallo, ich bin Dennis!'
     subtitle: >-
       Lösungsorientierter IT'ler' mit Empathie und Hands-on-Mentalität, der
-      pragmatisch und sachlich an Herausforderungen herangeht.
+      pragmatisch und sachlich bestehende und neue Herausforderungen annimmt.
     styles:
       self:
         height: auto
