@@ -57,7 +57,7 @@ sections:
       gerne per "Du".
 
 
-      Im daily Business bewege ich mich souverän im Spagat zwischen
+      Im "Daily Business" bewege ich mich souverän im Spagat zwischen
       technologischem Nerd und strategischem Anzugträger.
   - type: HeroSection
     title: ''
